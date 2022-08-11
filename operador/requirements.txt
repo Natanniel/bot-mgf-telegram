@@ -1,0 +1,7 @@
+python-telegram-bot
+pymongo
+pywin32
+pyautogui
+pywinauto
+pyperclip
+psutil

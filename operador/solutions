@@ -1,0 +1,4 @@
+## pywinauto not install
+py -mpip install --upgrade wheel
+py -mpip install comtypes
+py -mpip install pywinauto
